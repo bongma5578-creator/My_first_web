@@ -1,0 +1,50 @@
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+}
+.center-col{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+.gap{
+     gap:100px;
+     margin-top: 15px;
+     margin-bottom: 15px;
+}
+.center a{
+    text-decoration: none;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: small;
+    color:rgb(129, 135, 140);
+
+}
+.center a:hover{
+    color: black;
+}
+.profile{
+    width:15%;
+    border-radius:50% ;
+}
+.Heading{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:black;
+}
+.paragraph{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:black;
+    font-size:larger;
+}
+.galary{
+    gap:75px;
+    margin-top:15px;
+    margin-bottom:15px;
+}
+.Heading-2{
+   text-decoration:underline;
+
+}
